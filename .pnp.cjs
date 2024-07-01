@@ -93,7 +93,7 @@ const RAW_RUNTIME_STATE =
           ["unified", "npm:11.0.4"],\
           ["unist-util-visit", "npm:5.0.0"],\
           ["vfile", "npm:6.0.1"],\
-          ["workerpool", "npm:9.1.2"],\
+          ["workerpool", "npm:9.1.3"],\
           ["ws", "virtual:8e71b42712ecb79e83c0cdfd41b1a8d46fe5476608be0c854979c7c49bd6d25663899e8af9804d2d12f37c3660db7ecd54834e8449b9986f662d954fb52abdbe#npm:8.17.0"],\
           ["yargs", "npm:17.7.2"]\
         ],\
@@ -733,7 +733,7 @@ const RAW_RUNTIME_STATE =
           ["unified", "npm:11.0.4"],\
           ["unist-util-visit", "npm:5.0.0"],\
           ["vfile", "npm:6.0.1"],\
-          ["workerpool", "npm:9.1.2"],\
+          ["workerpool", "npm:9.1.3"],\
           ["ws", "virtual:8e71b42712ecb79e83c0cdfd41b1a8d46fe5476608be0c854979c7c49bd6d25663899e8af9804d2d12f37c3660db7ecd54834e8449b9986f662d954fb52abdbe#npm:8.17.0"],\
           ["yargs", "npm:17.7.2"]\
         ],\
@@ -6198,10 +6198,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["workerpool", [\
-      ["npm:9.1.2", {\
-        "packageLocation": "../../.yarn/berry/cache/workerpool-npm-9.1.2-87932eb281-10c0.zip/node_modules/workerpool/",\
+      ["npm:9.1.3", {\
+        "packageLocation": "../../.yarn/berry/cache/workerpool-npm-9.1.3-c3e77fc280-10c0.zip/node_modules/workerpool/",\
         "packageDependencies": [\
-          ["workerpool", "npm:9.1.2"]\
+          ["workerpool", "npm:9.1.3"]\
         ],\
         "linkType": "HARD"\
       }]\
