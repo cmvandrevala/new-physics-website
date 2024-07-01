@@ -34,7 +34,7 @@ const RAW_RUNTIME_STATE =
           ["@types/d3", "npm:7.4.3"],\
           ["@types/hast", "npm:3.0.4"],\
           ["@types/js-yaml", "npm:4.0.9"],\
-          ["@types/node", "npm:20.14.2"],\
+          ["@types/node", "npm:20.14.9"],\
           ["@types/pretty-time", "npm:1.1.5"],\
           ["@types/source-map-support", "npm:0.5.10"],\
           ["@types/ws", "npm:8.5.10"],\
@@ -674,7 +674,7 @@ const RAW_RUNTIME_STATE =
           ["@types/d3", "npm:7.4.3"],\
           ["@types/hast", "npm:3.0.4"],\
           ["@types/js-yaml", "npm:4.0.9"],\
-          ["@types/node", "npm:20.14.2"],\
+          ["@types/node", "npm:20.14.9"],\
           ["@types/pretty-time", "npm:1.1.5"],\
           ["@types/source-map-support", "npm:0.5.10"],\
           ["@types/ws", "npm:8.5.10"],\
@@ -1382,6 +1382,14 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/@types-node-npm-20.14.2-fa12d1e34b-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
           ["@types/node", "npm:20.14.2"],\
+          ["undici-types", "npm:5.26.5"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:20.14.9", {\
+        "packageLocation": "../../.yarn/berry/cache/@types-node-npm-20.14.9-a4571e1932-10c0.zip/node_modules/@types/node/",\
+        "packageDependencies": [\
+          ["@types/node", "npm:20.14.9"],\
           ["undici-types", "npm:5.26.5"]\
         ],\
         "linkType": "HARD"\
